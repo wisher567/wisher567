@@ -1,10 +1,7 @@
 - 👋 Hi, I’m Deshan
-- 👀 I’m interested in ML
+- 👀 I’m interested in ML/Ai/DevOps
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me on Discrod snfordtech
-- 😄 Pronouns:He
-- ⚡ Fun fact:I’ll Fix This Bug in 5 Minutes
+
 
 <!---
 wisher567/wisher567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
