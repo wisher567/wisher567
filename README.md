@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deshan
 - 👀 I’m interested in ML/AI/DevOps
-- 🌱 I’m currently learning Python
+
 
 
 <!---
